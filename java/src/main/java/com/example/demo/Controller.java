@@ -16,7 +16,7 @@ public class Controller {
                 }
             }
         }
-        return "<span style=\"color: green\">Hello Graal.js!</span>";
+        return "<span style=\"color: green\">Hello java!</span>";
     }
 
 }

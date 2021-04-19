@@ -1,4 +1,3 @@
-#![deny(warnings)]
 use warp::Filter;
 use warp::http::StatusCode;
 

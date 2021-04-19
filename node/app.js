@@ -10,8 +10,8 @@ const port = 8080;
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/api', function(req, res) {
     vk = 0;
-    for(i=0;i<1000;i++){
-        for(j=0;j<1000;j++){
+    for(i=0;i<500;i++){
+        for(j=0;j<500;j++){
             for(k=0;k<50;k++){
                 vk = k;
             }
