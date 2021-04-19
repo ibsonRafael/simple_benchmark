@@ -13,3 +13,18 @@
 cd java
 mvn spring-boot:run
 ```
+```c#
+cd dotnet
+dotnet run
+```
+```node
+cd node
+node app.js
+```
+```rust
+cd rust
+cargo run
+```
+
+Todos os exeplos foram executados em um máquina rodando Ubuntu 20, com 32 GB de RAM e Cores de 3.2Ghz, já os scripot de teste Jmmeter for rodado em um Mac Pro i7 rodando Catalina com 64 GB de RAM.
+
